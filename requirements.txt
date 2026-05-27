@@ -1,10 +1,9 @@
 streamlit
 yfinance
-pandas==2.1.4
+pandas
 numpy
 scikit-learn
 plotly
 matplotlib
 seaborn
-ta
 requests
