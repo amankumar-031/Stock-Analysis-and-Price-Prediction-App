@@ -1,4 +1,4 @@
-## Stock Analysis and Prediction Dashboard  
+## Stock Analysis and Prediction Dashboard . 
 
 ### Overview  
 a comprehensive **Streamlit based dashboard** designed for stock analysis  prediction  and technical evaluation.  
